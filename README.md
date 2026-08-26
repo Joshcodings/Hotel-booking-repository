@@ -2,7 +2,7 @@
 
 This project explores a real-world hotel booking dataset to uncover trends in cancellations, guest behavior, and seasonal patterns using Python, Pandas, and Matplotlib/Seaborn visualizations.
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 The dataset contains bookings made at a city hotel and a resort hotel. It includes detailed features like:
 
