@@ -15,14 +15,14 @@ The dataset contains bookings made at a city hotel and a resort hotel. It includ
 - Revenue-related details (ADR - Average Daily Rate)
 - Special requests and parking spaces
 
-## 🔍 Key Insights
+##  Key Insights
 
-- 📆 **Monthly Trends:** Peak bookings occur between July and August.
-- ❌ **Cancellations:** Higher lead time increases cancellation probability.
-- 🌍 **Top Guest Countries:** Portugal, United Kingdom, and France are top origins.
-- 🔁 **Repeated Guests:** Very few guests are repeat customers.
-- 🛏️ **Room Allocation:** There are frequent mismatches between reserved and assigned rooms.
-- 💵 **Revenue Trends:** City hotel generates higher average daily revenue.
+- **Monthly Trends:** Peak bookings occur between July and August.
+- **Cancellations:** Higher lead time increases cancellation probability.
+- **Top Guest Countries:** Portugal, United Kingdom, and France are top origins.
+- **Repeated Guests:** Very few guests are repeat customers.
+-  **Room Allocation:** There are frequent mismatches between reserved and assigned rooms.
+- **Revenue Trends:** City hotel generates higher average daily revenue.
 
 ## 📈 Visualizations
 
