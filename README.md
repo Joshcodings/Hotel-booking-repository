@@ -1,4 +1,4 @@
-# 🏨 Hotel Booking Analysis
+#  Hotel Booking Analysis
 
 This project explores a real-world hotel booking dataset to uncover trends in cancellations, guest behavior, and seasonal patterns using Python, Pandas, and Matplotlib/Seaborn visualizations.
 
@@ -31,7 +31,7 @@ The dataset contains bookings made at a city hotel and a resort hotel. It includ
 - Bar plots comparing guest types, room types, and special requests
 - Heatmaps for correlations
 
-## 🚀 Tools Used
+## Tools Used
 
 - Python
 - Pandas, NumPy
@@ -39,7 +39,7 @@ The dataset contains bookings made at a city hotel and a resort hotel. It includ
 - Jupyter Notebook
 - Git & GitHub
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 Hotel-booking-repository/
